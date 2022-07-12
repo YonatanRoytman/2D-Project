@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7db330b5d69b40488f423eff9ab2f23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - KnifePlayer: {fileID: 5933603546935574250, guid: a315fe1e5e03cf74eb6fec9e5e9bd5d6,
+      type: 3}
+  - healthBar: {fileID: 1406696870734598284, guid: 3a1b80cdd67611e4a966820170639fe7,
+      type: 3}
+  - GameOver: {fileID: 3537669181380088284, guid: 4a1722beb417d024bbccf6d9e70d1dab,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
